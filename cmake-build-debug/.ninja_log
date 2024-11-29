@@ -1,0 +1,6 @@
+# ninja log v6
+3	129	7546178715728870	build.ninja	e2061858886699a9
+2	335	7546178716041056	CMakeFiles/calculator.dir/main.c.obj	3ca1ff74e5d5ffee
+336	586	7546178719383147	calculator.exe	2b1a0000bdd06c20
+1	218	7546186010132882	CMakeFiles/calculator.dir/main.c.obj	3ca1ff74e5d5ffee
+218	371	7546186012305561	calculator.exe	2b1a0000bdd06c20
